@@ -5,23 +5,3 @@ The command is used like:
 
 $ hostname
 
-  - hostname
-  - hostname
-  - hostname
-  - hostname
-  - hostname
-  - hostname
-  - hostname
-  - hostname
-  - hostname
-  - hostname
-  - hostname
-  - hostname
-  - hostname
-  - hostname
-  - hostname
-  - hostname
-  - hostname
-  - hostname
-  - hostname
-  - hostname
