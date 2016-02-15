@@ -1,4 +1,4 @@
-The command ls -lR is long listing format with recursive listing.  This lists more details about the files such as who created it, their role, and the time created.  
+The command `ls -lR` is long listing format with recursive listing.  This lists more details about the files such as who created it, their role, and the time created.  
 There is one more column and I am not sure what it is, maybe the size?
 
 I am not quite sure why this command would be helpful and when I need to use it but I am sure we will learn more about it!
