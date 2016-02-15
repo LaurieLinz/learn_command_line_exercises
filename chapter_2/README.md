@@ -3,10 +3,13 @@ However, this command would state the specific location for which it was typed. 
 
  ##### 1) What directory are you in?
  `$ pwd`
+ 
  ##### 2) Are you in the class directory?
  `$ pwd` but the folder you are in (not the path) appears at the prompt
+ 
  ##### 3) Are you in your home directory? 
  ` $ pwd`
+ 
  ##### 4) What directory did you run that command in?
  `$ pwd`
    
