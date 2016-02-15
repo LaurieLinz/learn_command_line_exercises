@@ -3,5 +3,5 @@ This is pretty straightforward because I am on my laptop but it could get confus
 
 The command is used like:
 
-$ hostname
+`$ hostname`
 
