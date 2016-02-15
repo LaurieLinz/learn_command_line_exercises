@@ -62,6 +62,6 @@
 
 no errors except typos that I omitted 
 
-Can you remove the tmp directory? yes rmdir tmp
+Can you remove the tmp directory? yes `rmdir tmp`
 Let's remove the tmp directory. done
 
