@@ -10,13 +10,19 @@ takes you up one level in the structure.
 
 ####Can you CD into the temp directory?
 Yes 
+
+`$ cd temp`
+
 ####Why don't we go into the temp directroy?
 We will if we use the command from the chapter_5 directory
 
 ####Can go into the slash temp directory?
-No I receive no such file or directory
+` $ cd /tmp`
 
-####Can you go to the temp slash log directory?
+`Lauries-MacBook-Pro:tmp $`
+
+
+####Can you go to the slash temp slash log directory?
 When I type this I receive "No such file or directory"
 
 ####cd to the joe directory with one command. 
