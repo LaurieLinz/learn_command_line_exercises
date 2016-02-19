@@ -3,7 +3,16 @@ When you try to `rmdir` and the directory is not empty and error is triggered.  
 Unlike GUI interfaces, when something is deleted in unix it is gone and there is no way to recover it like opening the "trash" folder.
 
 Can you touch blah.txt? *yes*
+
+`$ touch blah.txt`
+
 Let's create foo.txt. *done* 
+
+`$ touch foo.txt`
+
+The output will not change but you can see the files by running `ls`
+
+>README.md blah.txt  foo.txt   new       temp
 
 #####What happens when you touch an existing file?
   
