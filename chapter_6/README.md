@@ -6,6 +6,7 @@ I am not quite sure why this command would be helpful and when I need to use it 
 
 `$ cd /tmp`
 
+
 `$ ls`
 
 04EBEFA5-E57D-4FD6-A4DB-047D168B48FC
