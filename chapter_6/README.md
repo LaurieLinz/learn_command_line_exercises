@@ -1,11 +1,11 @@
-The command `ls -lR` is long listing format with recursive listing.  This lists more details about the files such as who created it, their role, and the time created.  
-There is one more column and I am not sure what it is, maybe the size?
+The command `ls -lR` is long listing format with recursive listing.  This lists more details about the files such as who created it, their role, and the time created. The last column has the number of items associated with it. 
 
 I am not quite sure why this command would be helpful and when I need to use it but I am sure we will learn more about it!
 
 #####What's in the tmp directory?
 
 `$ cd /tmp`
+
 `$ ls`
 
 04EBEFA5-E57D-4FD6-A4DB-047D168B48FC
