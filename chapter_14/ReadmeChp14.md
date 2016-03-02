@@ -1,3 +1,7 @@
+Do not ever run rm -rf /.  This command says to remove EVERYTHING starting at your root directory.  This removes everything on your computer including the operating system.  You will be left with a very expensive paperweight until you can put OSX back on it then you you still be said because everything you had will be gone. Just don't do it.  Just say no to rm -rf /.
+
+
+
 ```
 (master) Laurie Linz
 Lauries-MacBook-Pro:temp $ ls
