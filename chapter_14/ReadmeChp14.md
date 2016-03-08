@@ -51,3 +51,45 @@ Lauries-MacBook-Pro:temp $ rm -rf newplace
 (master) Laurie Linz
 Lauries-MacBook-Pro:temp $ ls
 ```
+
+### Can you remove blah.txt?
+```
+(master) Laurie Linz
+Lauries-MacBook-Pro:chapter_14 $ cd ..
+
+(master) Laurie Linz
+Lauries-MacBook-Pro:learn_command_line_exercises $ cd chapter_9
+
+(master) Laurie Linz
+Lauries-MacBook-Pro:chapter_9 $ ls
+README.md blah.txt  foo.txt   new       temp
+
+(master) Laurie Linz
+Lauries-MacBook-Pro:chapter_9 $ rm blah.txt
+
+(master) Laurie Linz
+Lauries-MacBook-Pro:chapter_9 $ ls
+README.md foo.txt   new       temp
+```
+
+
+
+### Let's get rid of our development log file.
+```
+master) Laurie Linz
+Lauries-MacBook-Pro:chapter_9 $ rmdir ../chapter_11/log/
+
+(master) Laurie Linz
+Lauries-MacBook-Pro:chapter_9 $ ls ../chapter_11/
+Readme.md temp
+```
+
+### Can you remove everything in the slash temp slash foo directory?
+```
+(master) Laurie Linz
+Lauries-MacBook-Pro:chapter_14 $ rm -r temp/
+
+(master) Laurie Linz
+Lauries-MacBook-Pro:chapter_14 $ ls
+ReadmeChp14.md
+```
