@@ -24,4 +24,30 @@ Lauries-MacBook-Pro:chapter_15 $ cat ex15.txt
 blah blah blah blah
 ```
 
+Can you put "This class is fun" into bar.txt?
+Can you put "Oh so much fun" into foo.txt?
+```
+(master) Laurie Linz
+Lauries-MacBook-Pro:chapter_15 $ echo 'This class is fun' > bar.txt
 
+(master) Laurie Linz
+Lauries-MacBook-Pro:chapter_15 $ cat bar.txt
+This class is fun
+
+(master) Laurie Linz
+Lauries-MacBook-Pro:chapter_15 $ echo 'Oh so fun' >> bar.txt
+
+(master) Laurie Linz
+Lauries-MacBook-Pro:chapter_15 $ cat bar.txt
+This class is fun
+Oh so fun
+
+(master) Laurie Linz
+Lauries-MacBook-Pro:chapter_15 $
+```
+
+The $|$ pipes the output from left to right
+
+The $<$ writes the output from the file on the right to the one on the left and $>$ sends it to the file on the left.
+
+$>>$ moves from left to right appending the file
