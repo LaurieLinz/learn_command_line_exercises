@@ -13,5 +13,9 @@ Less shows the file and we can page through it.
 
 
 #### What does our database.yml look like?
-
-I do not seem to have a database.yml file.  I suspect that I will have one soon because Google lets me know that this is part of a Rails application.  
+```
+(master) Laurie Linz
+Lauries-MacBook-Pro:chapter_12 $ less database.yml
+LBJ took the IRT down to 4th street USA.
+database.yml (END)
+```
