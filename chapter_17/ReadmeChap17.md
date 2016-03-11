@@ -26,6 +26,7 @@ Lauries-MacBook-Pro:chapter_17 $ find . -name "*.txt" -print
 What log files are in your log directory?
 ```
 (master) Laurie Linz
-Lauries-MacBook-Pro:chapter_17 $ find log -name "*.txt" -print
-log/bar.txt
+ Lauries-MacBook-Pro:chapter_17 $ find log -name "*.log" -print
+ log/bar.log
+ log/foo.log
 ```
