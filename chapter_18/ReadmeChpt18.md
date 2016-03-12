@@ -1,4 +1,4 @@
-```
+    ```
 (master) Laurie Linz
 Lauries-MacBook-Pro:chapter_18 $ cat > newfile.txt
 This is a new file.
@@ -82,23 +82,21 @@ oldfile.txt:This is a old file.
 
 ```
 (master) Laurie Linz
-Lauries-MacBook-Pro:chapter_18 $ grep "error" foo.txt
-error here
-error on this line
-error once more
+Lauries-MacBook-Pro:chapter_18 $ grep "Error" foo.txt
+Error here
+Error once more
 ```
 
 ```
 (master) Laurie Linz
-Lauries-MacBook-Pro:chapter_18 $ grep "davinci" *.txt
-bar.txt:at davinci
-bar.txt:davinci is awesome!
+Lauries-MacBook-Pro:chapter_18 $ grep "davinci" bar.txt
+at davinci
+davinci is awesome!
 ```
 
 ```
 (master) Laurie Linz
-Lauries-MacBook-Pro:chapter_18 $ grep Laurie Linz *.txt
-grep: Linz: No such file or directory
+Lauries-MacBook-Pro:chapter_18 $ grep "Laurie Linz" *.txt
 bar.txt:Laurie Linz is awesome too!
 foo.txt:Laurie Linz would never make a mistake
 ```
