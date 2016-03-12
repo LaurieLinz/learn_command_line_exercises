@@ -17,5 +17,11 @@ Lauries-MacBook-Pro:chapter_22 $ env | grep TESTING
 ```
 
 Alternative "english" ways of asking you to export some stuff:
+
 Can you set the debug environment variable to true?
+export DEBUG=$DEBUG: true
+
 Can you remove the debug environment variable?
+export DEBUG=$DEBUG: false
+
+env shows what you are using export changes it.

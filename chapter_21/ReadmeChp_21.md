@@ -10,7 +10,7 @@ PWD=/Users/laurielinz/workspace/davinci_coders_t1_2016/homework/learn_command_li
 HOME=/Users/laurielinz
 
 #### Can you set your environment to have DEBUG set to true?
-I need a little help on this one
+export DEBUG=$DEBUG: true
 
 
 
