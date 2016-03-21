@@ -45,8 +45,8 @@ Show me the content of the text files in slash temp.
  
 ```
 Lauries-MacBook-Pro:~ $ cd /tmp
-Lauries-MacBook-Pro:tmp $ ls *.txt
-foo.txt 
+Lauries-MacBook-Pro:tmp $ cat *.txt
+Hello World
 ```
  
 
