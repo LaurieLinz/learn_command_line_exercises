@@ -10,8 +10,14 @@ PWD=/Users/laurielinz/workspace/davinci_coders_t1_2016/homework/learn_command_li
 HOME=/Users/laurielinz
 
 #### Can you set your environment to have DEBUG set to true?
-export DEBUG=$DEBUG: true
+```
+(master) Laurie Linz
+Lauries-MacBook-Pro:learn_command_line_exercises $ export DEBUG=true
+
+(master) Laurie Linz
+Lauries-MacBook-Pro:learn_command_line_exercises $ echo $DEBUG
+true
+```
 
 
-
->You can change your path using the VI editor.  
+>You can change your path by typing PATH=$PATH:<changes or add a directory here>.  I really do not want to change my path as I am very used to where things are right now. 
