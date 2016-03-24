@@ -76,20 +76,19 @@ README.md foo.txt   new       temp
 
 ### Let's get rid of our development log file.
 ```
-master) Laurie Linz
-Lauries-MacBook-Pro:chapter_9 $ rmdir ../chapter_11/log/
+(master) Laurie Linz
+Lauries-MacBook-Pro:development $ ls
+development.log
 
 (master) Laurie Linz
-Lauries-MacBook-Pro:chapter_9 $ ls ../chapter_11/
-Readme.md temp
+Lauries-MacBook-Pro:development $ rm development.log
 ```
 
 ### Can you remove everything in the slash temp slash foo directory?
 ```
-(master) Laurie Linz
-Lauries-MacBook-Pro:chapter_14 $ rm -r temp/
+Lauries-MacBook-Pro:tmp $ rmdir foo
+rmdir: foo: Directory not empty
 
-(master) Laurie Linz
-Lauries-MacBook-Pro:chapter_14 $ ls
-ReadmeChp14.md
+
+Lauries-MacBook-Pro:tmp $ rm -r foo
 ```
