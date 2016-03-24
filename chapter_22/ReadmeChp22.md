@@ -22,6 +22,13 @@ Can you set the debug environment variable to true?
 export DEBUG=$DEBUG: true
 
 Can you remove the debug environment variable?
-export DEBUG=$DEBUG: false
+```
+(master) Laurie Linz
+Lauries-MacBook-Pro:learn_command_line_exercises $ export DEBUG=false
+
+(master) Laurie Linz
+Lauries-MacBook-Pro:learn_command_line_exercises $ echo $DEBUG
+false
+```
 
 env shows what you are using export changes it.
