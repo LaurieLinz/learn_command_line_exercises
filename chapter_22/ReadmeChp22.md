@@ -27,8 +27,7 @@ Can you remove the debug environment variable?
 Lauries-MacBook-Pro:learn_command_line_exercises $ export DEBUG=false
 
 (master) Laurie Linz
-Lauries-MacBook-Pro:learn_command_line_exercises $ echo $DEBUG
-false
+Lauries-MacBook-Pro:chapter_22 $ unset DEBUG
 ```
 
 env shows what you are using export changes it.
